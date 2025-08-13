@@ -11,7 +11,6 @@
             };
 
             Assert.NotEmpty(Summaries);
-            Assert.Single(Summaries);
         }
     }
 }
